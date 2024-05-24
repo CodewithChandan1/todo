@@ -1,0 +1,17 @@
+.container {
+    /* Sunset Gradient */
+/* background: linear-gradient(to right, #ff7e5f, #feb47b); */
+/* Ocean Blue Gradient */
+/* background: linear-gradient(to right, #00c6ff, #0072ff); */
+/* Aqua Marine Gradient */
+/* background: linear-gradient(to right, #1a2980, #26d0ce); */
+/* Purple Dream Gradient */
+/* background: linear-gradient(to right, #e1eec3, #f05053); */
+/* Warm Flame Gradient */
+/* background: linear-gradient(to right, #ff9a9e, #fad0c4); */
+/* Cool Sky Gradient */
+background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+color: #ffffff;
+    min-width: 100%;
+    min-height: 100vh;
+  }
