@@ -48,7 +48,7 @@ const Todo = () => {
 
   return (
     <section className="main-container">
-      <h1 className="todolist-header">TODO List</h1>
+      <h1 className="todolist-header">TODO </h1>
       <TodoForm onSubmit={addTodo} />
       <TodoList
         todos={todos}
